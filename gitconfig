@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alejaguarin@gmail.com
+	name = Alejandra Guarin
